@@ -1,10 +1,5 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 import plotly.express as px
-from plotly.subplots import make_subplots
-import plotly.figure_factory as ff
-import plotly.offline as offline
-import plotly.graph_objs as go
 from urllib.request import urlretrieve
 
 import streamlit as st 

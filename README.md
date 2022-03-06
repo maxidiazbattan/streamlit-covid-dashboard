@@ -1,5 +1,7 @@
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/maxidiazbattan/streamlit-categorizador-repuestosya/main/app.py)
+
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/maxidiazbattan/streamlit-covid-dashboard/main/app.py)
 
 # Streamlit Share Deployment
 

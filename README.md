@@ -1,7 +1,8 @@
-
-
+# Streamlit covid dashboard
+In this repro I have created a simple dashboard with Streamlit, a Python framework that allows you to create web apps in pure Python, without the need to use JavaScript, HTML or CSS. Maybe it takes a bit to load the first time because it's dorment at Streamlit Servers). I hope you like it, you can see it making a click in the badge down below.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/maxidiazbattan/streamlit-covid-dashboard/main/app.py)
+
 
 # Streamlit Share Deployment
 
@@ -25,9 +26,13 @@
 6. Your app is now deploying and you can watch while it launches. Most apps take only a couple of minutes to deploy, but if your app has a lot of dependencies it may take some time to deploy the first time. After the initial deployment, any change that does not touch your dependencies should show up immediately.
 8. Once your app URL it's ready, that's it — you're done! Your app now has a permanent URL that you can share with others. Congrats!
 
+
 # Built With
 
-* [Streamlit](https://streamlit.io/) - The web framework used
+* [Python](https://docs.python.org/3/) - Programming language
+* [Pandas](https://pandas.pydata.org/docs/) - Data manipulation python library
+* [Streamlit](https://streamlit.io/) - The web app framework 
+
 
 # Author
 
